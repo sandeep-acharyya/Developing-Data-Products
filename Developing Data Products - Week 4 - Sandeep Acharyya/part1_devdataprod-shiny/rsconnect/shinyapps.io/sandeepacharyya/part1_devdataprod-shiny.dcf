@@ -1,0 +1,12 @@
+name: part1_devdataprod-shiny
+title: part1_devdataprod-shiny
+username:
+account: sandeepacharyya
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1062912
+bundleId: 2283439
+url: https://sandeepacharyya.shinyapps.io/part1_devdataprod-shiny/
+when: 1564669159.15915
+asMultiple: FALSE
+asStatic: FALSE
